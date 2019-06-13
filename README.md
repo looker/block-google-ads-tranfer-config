@@ -9,7 +9,7 @@ This project consists of configuration files for the Google Ads block project `b
 1. Enable the Project Import feature currently in /admin/labs on your Looker instance.
 
 
-Note that the `ref:` should point to the latest commit in each respective repo [google-ads-fivetran-bigquery](https://github.com/looker/app-marketing-google-ads-fivetran-bigquery/commits/master) and [google-ads](https://github.com/looker/app-marketing-google-ads/commits/master).
+Note that the `ref:` should point to the latest commit in each respective repo [block-google-ads](https://github.com/looker/block-google-ads/commits/master) 
 
 ### Block Info
 
