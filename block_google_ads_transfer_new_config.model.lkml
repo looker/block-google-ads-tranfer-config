@@ -7,4 +7,5 @@ explore: ad_basic_stats_config {
 
 explore: click_fraud_analysis {
   description: "Clicks forecast and fraud analysis"
+  group_label: "Block Google Ads"
 }
